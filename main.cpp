@@ -67,7 +67,6 @@ int main()
         {
             cout<<vec[i] <<" ";
         }
-        cout<<endl;
     }
 
 
